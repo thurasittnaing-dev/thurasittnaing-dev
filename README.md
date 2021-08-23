@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Don't crank out code at 2AM. LOL**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding2am&theme=chartreuse-dark&show_icons=true)
 
 
 <h3 align="left">Connect with me:</h3>
