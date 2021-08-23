@@ -17,11 +17,11 @@
 
 ## My Certifications :arrow_down:
 
-- [Internship in R&D Department at Linn IT Solution]
-- [Certificated in Professional Web Developer at Fairway Technology]
-- [Certificate in Database Management and SQL at ProDev Technology]
-- [Certificate in Myanmar IT Consulting PHP Bootcamp]
-- [Certificate in UI/UX Frontend Developer at Fairway Technology]
+- Internship in R&D Department at Linn IT Solution
+- Certificated in Professional Web Developer at Fairway Technology
+- Certificate in Database Management and SQL at ProDev Technology
+- Certificate in Myanmar IT Consulting PHP Bootcamp
+- Certificate in UI/UX Frontend Developer at Fairway Technology
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding2am&theme=chartreuse-dark&show_icons=true)
 
