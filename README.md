@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [[thurasittnaing.me](thurasittnaing.me)](https://thurasittnaing.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://thurasittnaing.netlify.app/)
 
 - 💬 Ask me about **Laravel**
 
