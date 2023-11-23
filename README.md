@@ -23,7 +23,7 @@
 - Certificate in Myanmar IT Consulting PHP Bootcamp
 - Certificate in UI/UX Frontend Developer at Fairway Technology
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coding2am&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thurasittnaing-dev&theme=chartreuse-dark&show_icons=true)
 
 
 <h3 align="left">Connect with me:</h3>
