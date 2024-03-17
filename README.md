@@ -1,4 +1,4 @@
-<h1 align="center">Hola! my name is Thura Sitt Naing</h1>
+<h1 align="center">My name is Thura Sitt Naing 🧑🏻‍💻</h1>
 <h3 align="center">Living life on the edge with a sick sense of humor 👊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thurasittnaing-dev&label=Profile%20views&color=0e75b6&style=flat" alt="thurasittnaing-dev" /> </p>
