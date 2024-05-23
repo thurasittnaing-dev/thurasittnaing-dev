@@ -35,19 +35,19 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/eddith_nk21/" target="_bank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/eddith_nk21/" target="_bank" style="text-decoration: none;!important">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
-  <a href="https://discordapp.com/users/461191624752365568" target="_bank" style="text-decoration: none;">
+  <a href="https://discordapp.com/users/461191624752365568" target="_bank" style="text-decoration: none;!important">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
-  <a href="mailto:thurasittnaing.developement@gmail.com" style="text-decoration: none;">
+  <a href="mailto:thurasittnaing.developement@gmail.com" style="text-decoration: none;!important">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
-  <a href="https://www.facebook.com/thurasittnaing.me" target="_bank" style="text-decoration: none;">
+  <a href="https://www.facebook.com/thurasittnaing.me" target="_bank" style="text-decoration: none;!important">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 
