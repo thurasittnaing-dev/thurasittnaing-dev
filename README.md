@@ -7,10 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thurasittnaing-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmM2xqZnZhbXRsb29zZ2JlZTQ3b2IxOWRoOWJuenVnd2Fzcm44cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K7StRcr7hagJpXROmb/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzc3a256ZTN3MTZoM20zaTh4aGJvOWhzc2Y4d3F3cDJsc3ByejczdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif"  />
 
 ###
 
