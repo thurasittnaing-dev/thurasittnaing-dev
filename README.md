@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmM2xqZnZhbXRsb29zZ2JlZTQ3b2IxOWRoOWJuenVnd2Fzcm44cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K7StRcr7hagJpXROmb/giphy.gif"  />
+<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhmM2xqZnZhbXRsb29zZ2JlZTQ3b2IxOWRoOWJuenVnd2Fzcm44cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K7StRcr7hagJpXROmb/giphy.gif"  />
 
 ###
 
@@ -30,30 +30,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/eddith_nk21/" target="_bank" style="text-decoration:none">
+  <a href="https://www.instagram.com/eddith_nk21/" target="_bank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 
-  <a href="https://discordapp.com/users/461191624752365568" target="_bank" style="text-decoration:none">
+  <a href="https://discordapp.com/users/461191624752365568" target="_bank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   
-  <a href="mailto:thurasittnaing.developement@gmail.com" style="text-decoration:none">
+  <a href="mailto:thurasittnaing.developement@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+
+  <a href="https://www.facebook.com/thurasittnaing.me" target="_bank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/thurasittnaing-dev/thurasittnaing-dev/output/snake.svg" alt="Snake animation" />
 
 ###
