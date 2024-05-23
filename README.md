@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack Developer 🧑🏻‍💻</h1>
+<h1 align="center">Developer 🧑🏻‍💻</h1>
 <h3 align="center">Great code comes from stupid problems! 👊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thurasittnaing-dev&label=Profile%20views&color=0e75b6&style=flat" alt="thurasittnaing-dev" /> </p>
