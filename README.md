@@ -4,7 +4,7 @@
 
 | **Current Company**  | **Position**      | **Phone**       | **Email**                           |  
 |-----------------------|-------------------|-----------------|-------------------------------------|  
-| SecureLink Co. Ltd    | Mid PHP Developer | 09755277776     | thurasittnaing.personal@gmail.com   |  
+| SecureLink Co. Ltd    | PHP Developer | 09755277776     | thurasittnaing.personal@gmail.com   |  
 
 ###
 
