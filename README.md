@@ -47,6 +47,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/thurasittnaing-dev/thurasittnaing-dev/blob/output/github-snake-dark.svg)
 
 ###
