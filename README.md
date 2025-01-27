@@ -2,9 +2,7 @@
 
 ###
 
-> | Current Company |  Position    |  Phone           |  Email      | Status   
-> |-----------------|--------------|------------------|------------------|------------------
-> | Secure Link Co., Ltd. | Backend Developer | 09755277776  | thurasittnaing.personal@gmail.com | `Open to Work`
+
 
 ###
 
