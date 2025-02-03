@@ -1,24 +1,16 @@
 <h2 align="left">Thura Sitt Naing (👨‍💻Developer)</h2>
-
 ###
-
 > | Current Company |  Position    |  Phone           |  Email      | Status   
 > |-----------------|--------------|------------------|------------------|------------------
 > | Secure Link Co., Ltd. | Backend Developer | 09755277776  | thurasittnaing.personal@gmail.com | `Open to Work`
-
 ###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=thurasittnaing-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thurasittnaing-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 ###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN1NGkybWN0dmo0cXF6d2h3bm0wbmt5ZjZyaDdzdGx2YXllYzQ2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="12" />
